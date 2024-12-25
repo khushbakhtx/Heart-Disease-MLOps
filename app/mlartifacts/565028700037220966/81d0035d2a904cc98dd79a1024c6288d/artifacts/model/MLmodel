@@ -1,0 +1,43 @@
+artifact_path: model
+flavors:
+  catboost:
+    catboost_version: 1.2.7
+    code: null
+    data: model.cb
+    model_type: CatBoostClassifier
+    save_format: cbm
+  python_function:
+    data: model.cb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.catboost
+    python_version: 3.12.6
+mlflow_version: 2.19.0
+model_size_bytes: 120062
+model_uuid: 0a18d8bbe8984ef5bf11f7bbdfe69111
+run_id: 81d0035d2a904cc98dd79a1024c6288d
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "age", "required": true}, {"type": "integer",
+    "name": "sex", "required": true}, {"type": "long", "name": "restingbp", "required":
+    true}, {"type": "long", "name": "cholesterol", "required": true}, {"type": "long",
+    "name": "fastingbs", "required": true}, {"type": "long", "name": "maxhr", "required":
+    true}, {"type": "integer", "name": "exerciseangina", "required": true}, {"type":
+    "double", "name": "oldpeak", "required": true}, {"type": "boolean", "name": "chest_pain_ASY",
+    "required": true}, {"type": "boolean", "name": "chest_pain_ATA", "required": true},
+    {"type": "boolean", "name": "chest_pain_NAP", "required": true}, {"type": "boolean",
+    "name": "chest_pain_TA", "required": true}, {"type": "boolean", "name": "restingecg_LVH",
+    "required": true}, {"type": "boolean", "name": "restingecg_Normal", "required":
+    true}, {"type": "boolean", "name": "restingecg_ST", "required": true}, {"type":
+    "boolean", "name": "st_slope_Down", "required": true}, {"type": "boolean", "name":
+    "st_slope_Flat", "required": true}, {"type": "boolean", "name": "st_slope_Up",
+    "required": true}, {"type": "long", "name": "maxhr_squared", "required": true},
+    {"type": "long", "name": "cholesterol_squared", "required": true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+utc_time_created: '2024-12-25 19:19:57.677406'

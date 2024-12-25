@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/565028700037220966/81d0035d2a904cc98dd79a1024c6288d/artifacts
+end_time: 1735154407218
+entry_point_name: ''
+experiment_id: '565028700037220966'
+lifecycle_stage: active
+run_id: 81d0035d2a904cc98dd79a1024c6288d
+run_name: puzzled-sponge-17
+run_uuid: 81d0035d2a904cc98dd79a1024c6288d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735154396666
+status: 3
+tags: []
+user_id: User

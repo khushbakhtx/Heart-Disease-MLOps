@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/565028700037220966/0b1f28a3b86a45f79bb2bcf11975e352/artifacts
+deleted_time: 1735153747107
+end_time: 1735152825513
+entry_point_name: ''
+experiment_id: '565028700037220966'
+lifecycle_stage: deleted
+run_id: 0b1f28a3b86a45f79bb2bcf11975e352
+run_name: amusing-wasp-662
+run_uuid: 0b1f28a3b86a45f79bb2bcf11975e352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735152825404
+status: 4
+tags: []
+user_id: User

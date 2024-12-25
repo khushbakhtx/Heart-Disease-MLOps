@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/565028700037220966/4a9cf862e1964e71a2fefd5d38434703/artifacts
+end_time: 1735156037502
+entry_point_name: ''
+experiment_id: '565028700037220966'
+lifecycle_stage: active
+run_id: 4a9cf862e1964e71a2fefd5d38434703
+run_name: shivering-vole-303
+run_uuid: 4a9cf862e1964e71a2fefd5d38434703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735155974360
+status: 4
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/565028700037220966/d75e2765eb444755a6988c7046d5d4c4/artifacts
+end_time: 1735153857447
+entry_point_name: ''
+experiment_id: '565028700037220966'
+lifecycle_stage: active
+run_id: d75e2765eb444755a6988c7046d5d4c4
+run_name: skittish-stoat-714
+run_uuid: d75e2765eb444755a6988c7046d5d4c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735153844110
+status: 4
+tags: []
+user_id: User

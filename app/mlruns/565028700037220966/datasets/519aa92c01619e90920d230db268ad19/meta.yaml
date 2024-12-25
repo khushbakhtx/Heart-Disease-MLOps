@@ -1,0 +1,21 @@
+digest: 2b5259af
+name: dataset
+profile: '{"num_rows": 642, "num_elements": 12840}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "age", "required": true}, {"type":
+  "integer", "name": "sex", "required": true}, {"type": "long", "name": "restingbp",
+  "required": true}, {"type": "long", "name": "cholesterol", "required": true}, {"type":
+  "long", "name": "fastingbs", "required": true}, {"type": "long", "name": "maxhr",
+  "required": true}, {"type": "integer", "name": "exerciseangina", "required": true},
+  {"type": "double", "name": "oldpeak", "required": true}, {"type": "boolean", "name":
+  "chest_pain_ASY", "required": true}, {"type": "boolean", "name": "chest_pain_ATA",
+  "required": true}, {"type": "boolean", "name": "chest_pain_NAP", "required": true},
+  {"type": "boolean", "name": "chest_pain_TA", "required": true}, {"type": "boolean",
+  "name": "restingecg_LVH", "required": true}, {"type": "boolean", "name": "restingecg_Normal",
+  "required": true}, {"type": "boolean", "name": "restingecg_ST", "required": true},
+  {"type": "boolean", "name": "st_slope_Down", "required": true}, {"type": "boolean",
+  "name": "st_slope_Flat", "required": true}, {"type": "boolean", "name": "st_slope_Up",
+  "required": true}, {"type": "long", "name": "maxhr_squared", "required": true},
+  {"type": "long", "name": "cholesterol_squared", "required": true}]}'
+source: '{"tags": {"mlflow.user": "User", "mlflow.source.name": "main.py", "mlflow.source.type":
+  "LOCAL"}}'
+source_type: code
