@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/565028700037220966/24c7681d1b444c0896147e7ff112d6c9/artifacts
+end_time: 1735191179112
+entry_point_name: ''
+experiment_id: '565028700037220966'
+lifecycle_stage: active
+run_id: 24c7681d1b444c0896147e7ff112d6c9
+run_name: stylish-loon-338
+run_uuid: 24c7681d1b444c0896147e7ff112d6c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735191132294
+status: 3
+tags: []
+user_id: User

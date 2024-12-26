@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/565028700037220966/f01ba109c7884e85882d7fd6b3f575a1/artifacts
+deleted_time: 1735187491822
+end_time: 1735183741951
+entry_point_name: ''
+experiment_id: '565028700037220966'
+lifecycle_stage: deleted
+run_id: f01ba109c7884e85882d7fd6b3f575a1
+run_name: receptive-toad-176
+run_uuid: f01ba109c7884e85882d7fd6b3f575a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735183674450
+status: 4
+tags: []
+user_id: User

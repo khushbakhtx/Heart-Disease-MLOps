@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/565028700037220966/6f264e0b17a14566900a6578657f697d/artifacts
+deleted_time: 1735187491839
+end_time: 1735183121251
+entry_point_name: ''
+experiment_id: '565028700037220966'
+lifecycle_stage: deleted
+run_id: 6f264e0b17a14566900a6578657f697d
+run_name: enchanting-bass-563
+run_uuid: 6f264e0b17a14566900a6578657f697d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735183055574
+status: 4
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/565028700037220966/d7520c56e1a0419093b3a07a2f1fbaf4/artifacts
+end_time: 1735190217311
+entry_point_name: ''
+experiment_id: '565028700037220966'
+lifecycle_stage: active
+run_id: d7520c56e1a0419093b3a07a2f1fbaf4
+run_name: clean-hare-871
+run_uuid: d7520c56e1a0419093b3a07a2f1fbaf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735190161973
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2c35571de43f443f80f30a745c593df6/artifacts
+deleted_time: 1735190236409
+end_time: 1735189911198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2c35571de43f443f80f30a745c593df6
+run_name: skillful-loon-968
+run_uuid: 2c35571de43f443f80f30a745c593df6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735189676556
+status: 4
+tags: []
+user_id: User

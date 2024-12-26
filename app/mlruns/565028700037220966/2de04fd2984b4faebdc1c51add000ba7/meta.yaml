@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/565028700037220966/2de04fd2984b4faebdc1c51add000ba7/artifacts
+deleted_time: 1735187491823
+end_time: 1735184002514
+entry_point_name: ''
+experiment_id: '565028700037220966'
+lifecycle_stage: deleted
+run_id: 2de04fd2984b4faebdc1c51add000ba7
+run_name: nebulous-bug-130
+run_uuid: 2de04fd2984b4faebdc1c51add000ba7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735183930852
+status: 4
+tags: []
+user_id: User

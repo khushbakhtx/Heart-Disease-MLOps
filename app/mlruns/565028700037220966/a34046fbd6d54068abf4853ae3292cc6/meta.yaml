@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/565028700037220966/a34046fbd6d54068abf4853ae3292cc6/artifacts
+deleted_time: 1735187491855
 end_time: 1735155312298
 entry_point_name: ''
 experiment_id: '565028700037220966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a34046fbd6d54068abf4853ae3292cc6
 run_name: skittish-loon-72
 run_uuid: a34046fbd6d54068abf4853ae3292cc6

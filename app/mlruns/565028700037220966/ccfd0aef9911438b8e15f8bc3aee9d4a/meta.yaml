@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/565028700037220966/ccfd0aef9911438b8e15f8bc3aee9d4a/artifacts
+deleted_time: 1735187491887
 end_time: 1735153706474
 entry_point_name: ''
 experiment_id: '565028700037220966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ccfd0aef9911438b8e15f8bc3aee9d4a
 run_name: bald-perch-866
 run_uuid: ccfd0aef9911438b8e15f8bc3aee9d4a

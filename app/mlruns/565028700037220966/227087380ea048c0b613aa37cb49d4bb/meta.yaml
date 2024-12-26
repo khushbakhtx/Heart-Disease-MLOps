@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/565028700037220966/227087380ea048c0b613aa37cb49d4bb/artifacts
+deleted_time: 1735190539219
+end_time: 1735190520634
+entry_point_name: ''
+experiment_id: '565028700037220966'
+lifecycle_stage: deleted
+run_id: 227087380ea048c0b613aa37cb49d4bb
+run_name: casual-loon-234
+run_uuid: 227087380ea048c0b613aa37cb49d4bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735190486067
+status: 4
+tags: []
+user_id: User

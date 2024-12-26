@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735193104481
+current_stage: None
+description: classification model for heart disease
+last_updated_timestamp: 1735193104503
+name: catboost_model_v1.1
+run_id: 608691c6f47a467ba25fb5657098869b
+run_link: ''
+source: mlflow-artifacts:/565028700037220966/608691c6f47a467ba25fb5657098869b/artifacts/catboost_model_modified
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/565028700037220966/608691c6f47a467ba25fb5657098869b/artifacts/catboost_model_modified
+user_id: null
+version: 1

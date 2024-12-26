@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/565028700037220966/4a9cf862e1964e71a2fefd5d38434703/artifacts
+deleted_time: 1735187491841
 end_time: 1735156037502
 entry_point_name: ''
 experiment_id: '565028700037220966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4a9cf862e1964e71a2fefd5d38434703
 run_name: shivering-vole-303
 run_uuid: 4a9cf862e1964e71a2fefd5d38434703

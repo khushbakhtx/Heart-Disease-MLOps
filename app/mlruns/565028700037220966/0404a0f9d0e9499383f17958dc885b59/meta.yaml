@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/565028700037220966/0404a0f9d0e9499383f17958dc885b59/artifacts
+deleted_time: 1735189808311
+end_time: 1735188487488
+entry_point_name: ''
+experiment_id: '565028700037220966'
+lifecycle_stage: deleted
+run_id: 0404a0f9d0e9499383f17958dc885b59
+run_name: stylish-yak-602
+run_uuid: 0404a0f9d0e9499383f17958dc885b59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735188414801
+status: 4
+tags: []
+user_id: User

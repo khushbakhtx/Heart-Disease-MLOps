@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/565028700037220966/4b87254bd9d54193a95bcf3535225d57/artifacts
+deleted_time: 1735187491873
 end_time: 1735154037406
 entry_point_name: ''
 experiment_id: '565028700037220966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4b87254bd9d54193a95bcf3535225d57
 run_name: unique-mink-905
 run_uuid: 4b87254bd9d54193a95bcf3535225d57
