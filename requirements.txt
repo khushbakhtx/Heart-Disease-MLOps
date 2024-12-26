@@ -1,0 +1,9 @@
+kaleido
+scikit-learn
+optuna
+mlflow
+catboost
+pandas
+numpy 
+matplotlib
+poetry
