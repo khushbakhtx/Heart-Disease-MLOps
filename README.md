@@ -121,6 +121,8 @@ Heart-Disease/
 
 ## Описание экспериментов
 
+Теги ввел manually через mlflow ui
+
 1. **Эксперимент puzzled-sponge-17**:
    - **модель**: CatBoost
    - **теги**: `project: Heart Disease`, `version: v1.0`
