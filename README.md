@@ -127,7 +127,7 @@ Heart-Disease/
    - **модель**: CatBoost
    - **теги**: `project: Heart Disease`, `version: v1.0`
    - **метрики**:
-     - Точность: 88.7%
+     - accuracy: 88.7%
    - **артефакты**:
      - Модель: `model.pkl`
    - **описание&reflection**: Это был первый удачный эксперимент без всяких ошибок с использованием набора данных о сердечных заболеваниях и модель catboostclassifer для прогноза наличия заболевания.
@@ -136,7 +136,8 @@ Heart-Disease/
    - **модель**: CatBoost
    - **теги**: `project: Heart Disease`, `version: v2`
    - **метрики**:
-     - Точность: 90.5%
+     - accuracy: 90.5%
+     - AUC: 94%
    - **артефакты**:
      - Модель: `model.pkl`
      - Визуал: `feature_importance.png`, `roc_curve`
@@ -146,7 +147,8 @@ Heart-Disease/
    - **модель**: CatBoost
    - **теги**: `version: v1.1`
    - **метрики**:
-     - Точность: 90.5%
+     - accuracy: 90.5%
+     - AUC: 95%
    - **артефакты**:
      - Модель: `model.pkl`, 
      - Визуал: `feature_importance.png`, `roc_curve`, `parallel_coordinate.png`, `optimization_history.png`
